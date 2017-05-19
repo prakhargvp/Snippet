@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include<stdlib.h>
 int checkChar(char ch){
     /* Checks if it is an alphabet */
     int count=0;

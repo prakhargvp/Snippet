@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<ctype.h>
 #include"control.c"
 #include "scan.c"
 int main()
